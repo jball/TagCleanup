@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.0.4-20111207.115108-15.jar"/>
+	<classpathentry kind="lib" path="lib/src/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/src/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/src/jaudiotagger-2.0.4-20111207.115108-15-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
